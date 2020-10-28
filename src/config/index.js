@@ -1,7 +1,7 @@
 module.exports = {
   author: "@konstantinmuenster",
   siteTitle: "Brett Goodrich Dev Portfolio",
-  siteShortTitle: "Developer Portfolio", // Used as logo text in header, footer, and splash screen
+  siteShortTitle: "Professional Portfolio", // Used as logo text in header, footer, and splash screen
   siteDescription: "Brett Goodrich Dev Portfolio",
   siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
   siteLanguage: "en_US",
